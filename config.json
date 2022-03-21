@@ -1,7 +1,13 @@
-/* 
+{
+  "type": "service_account",
+  "project_id": "restaurante-rpfj",
+  "private_key_id": "65f4b1a953785f534d4e4e3e16c3712037f57e60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDe/oTYl1HfveUG\nDoetO5Lji26DHOP65kiTmNE4IlXhQOsUYYlD3mdOdY2CTGbqBK6loJEsU0UZ4Tna\neoMrlCx4+9ILFIr7lkw83Ap9uAysCGRMbEtaa4Tfp+97hSaiokj6N2WBAdk7eHib\nund7IAwFrcnceuzwu3EJZ4n+sf6qJjoZimfiYUFPtJzYiSZ6H0jv9TQkLwqQh0UQ\nyZD4uUYAUr8K8zsPJUicRlgUdx0uFyuRjeM8NIpD/QqtwRbHCRc7rRJaxIgFDbCs\nMyWfnQoiCRxzgRY5cXd6DQL1jI8a1nLxL+S/htiv04a/AdTv5AnmJ2AWubCq3b+Z\nVTt1nOH5AgMBAAECggEAIyz/A7OLBMJNuFDeciMtnptGCYSrKc7dr/qxNiukZG37\nJzHjl0MkBKpiciVfLpcifZoAjH9uLRDsMVyWCG/NPCBtF7Zb3iftSsRjG0XHKfQA\n7lU+5bqEMUuqaU+tsoXrAR1v85O5ErqEO/yEEHYTr2mkqBTz/11yDUu55uVpCKnH\nnJevi6S4BtoiogAPrvaEHk1p46SW1Xx82xkPcU7yKbfxF47FTA2mgVTXZD3tzbwp\nQ8zYrMMqL/MOvLfV1TVjSKBHUq+6z9rXt7jJI3b/HXLs9Egvk92BMScYqaq3ZzC2\nZX5XOri/BVztR6npl+8Ucl2nQsaTu1xOqZCuMH2ZaQKBgQD4cDrPTQLGQUq3voSt\nta/XjbYvbr5k/ooutFpXKxo+GgQDoQ6gB6U5PmZV/0Qw4r8RmPQGKIwFxdSkImKx\nC9mJxBuB2r2a3bGiKOkpoWeupZ8CA1QeSSN69y8WvQ7hpjUogwvXX+z+f/BRO13e\nIB4qza8Iz/XGTR+9GEx7yaI3HwKBgQDlyAjR5tUz5eW5BSZa+hErCVvJy9BeZkYh\nN7Awx8R8UaC6I2u9rVbj28lOrDh4A/pfmwsq16L/JCNhpZp1dGIB5wNTtTEijZcA\n1GZwxOdKPWqWq0gQDn0b5PiF1NwljvmbGl/DQZa9ECSEl7fxBVfqDffUhGEyk6Al\nIDoh2lc75wKBgAv1wy8FoxOOQx2TY2nFbGCxJssjxrCv/FEBR7QYlBvXPsg58a1M\nkOyvj1emgU7lK5OaTG0beJoyiukX6q5hRqi2MyjOMgCJmaqX05m4dnhW6s+6/0qx\n9K5PxgmPMm80hCyeGmzU5mDeIeCXPg6adzlSS5HeCRPx1IxS5iOzcka7AoGAYYJQ\nk9p0ETD3GlvgGe1SicPP6sON6fFWw1PhdeHgNK1jGnpbh0NewxUKyVL2J5/wiM+/\nnm+hoMoSJabj9AHucUY6ODSE5FfXg6eezS4RxIRpjgSjcQTk/IhfGlPpFBsnOzWm\n+7ICqLqH9Kh5i1MsKovA5rNCl/bjl72kTaddK3MCgYEAsF5LC3QVWcEwrJRKu+7H\nUJHmMiJk/tqn7wY8/jatSdgFQVUQfApTYYnMXncuBcPs8JBWXl74o+8jDrNkz1BX\n7aYTcZLs4bLjxEIGMr9GRHk6hkTL9qSMFaTvueItSGJICGcbECzUQaJY8maxkFkh\nf7Rxtte9sgyKZ1Ao0BixuOM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatfuel-chatbot-831@restaurante-rpfj.iam.gserviceaccount.com",
+  "client_id": "118359994222258789312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatfuel-chatbot-831%40restaurante-rpfj.iam.gserviceaccount.com"
+}
 
-  This is a placeholder file. You can generate this file using this page:
-  
-  https://cloud.google.com/docs/authentication/getting-started
-  
- */
